@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "649CEF71-1534-4C78-ABCB-ACB373CFD539"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0760B582-B2CA-4870-B502-352CA05F9356"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SleepNoise/Model/Synth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "myAudioSessionInterruptionHandler(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0760B582-B2CA-4870-B502-352CA05F9356 - 432ebb9ab0cb1f4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SleepNoise.Synth.stop() -&gt; ()"
+                  moduleName = "SleepNoise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxbuchholz/SleepNoise/SleepNoise/Model/Synth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "0760B582-B2CA-4870-B502-352CA05F9356 - ebb5e966b438049d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SleepNoise.Synth.myAudioSessionInterruptionHandler(notification: Foundation.Notification) -&gt; ()"
+                  moduleName = "SleepNoise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxbuchholz/SleepNoise/SleepNoise/Model/Synth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58D0B032-0C5E-4FB7-BBA4-5AC2A7F559FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SleepNoise/Model/Synth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "myAudioSessionInterruptionHandler(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58D0B032-0C5E-4FB7-BBA4-5AC2A7F559FA - 326ed763a7a7a091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SleepNoise.Synth.fillSpeakerBuffer(inputDataList: Swift.UnsafeMutablePointer&lt;__C.AudioBufferList&gt;, frameCount: Swift.UInt32) -&gt; ()"
+                  moduleName = "SleepNoise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxbuchholz/SleepNoise/SleepNoise/Model/Synth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "3748">
+               </Location>
+               <Location
+                  uuid = "58D0B032-0C5E-4FB7-BBA4-5AC2A7F559FA - ebb5e966b43805c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SleepNoise.Synth.myAudioSessionInterruptionHandler(notification: Foundation.Notification) -&gt; ()"
+                  moduleName = "SleepNoise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxbuchholz/SleepNoise/SleepNoise/Model/Synth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
